@@ -1,0 +1,70 @@
+{
+  "user": [
+    {
+      "email": "email@example.com",
+      "id": 5
+    },
+    {
+      "email": "aleer@aler.com",
+      "id": 6
+    },
+    {
+      "email": "any@any.com",
+      "id": 7
+    },
+    {
+      "email": "any@any.com",
+      "id": 8
+    },
+    {
+      "email": "user@user.com",
+      "id": 9
+    },
+    {
+      "email": "fares@example.com",
+      "id": 10
+    },
+    {
+      "email": {
+        "email": "any@any.com"
+      },
+      "id": 11
+    },
+    {
+      "email": "user@user.com",
+      "id": 12
+    },
+    {
+      "email": "anyyyyyyy@anyyyy.com",
+      "id": 13
+    },
+    {
+      "email": "any@any.com",
+      "id": 14
+    },
+    {
+      "email": "any@any.com",
+      "id": 15
+    },
+    {
+      "email": "email@emai.com",
+      "id": 16
+    },
+    {
+      "email": "alert@alert.com",
+      "id": 17
+    },
+    {
+      "email": "user@user.com",
+      "id": 18
+    },
+    {
+      "email": "Abdelrahmanelemam@gmail.com",
+      "id": 19
+    },
+    {
+      "email": "ABDEL@GAMAI.COM",
+      "id": 20
+    }
+  ]
+}
